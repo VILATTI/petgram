@@ -29,13 +29,6 @@ npx expo start
 - Notifications
 - Delete posts
 
-## Project Structure
-src/
-├── api/          # API clients (auth, posts, comments, follows, notifications)
-├── navigation/   # React Navigation setup
-├── screens/      # All screens
-├── store/        # Zustand auth store
-└── theme/        # Colors, spacing, radius
 
 ## Backend
 Requires [petgram-api](https://github.com/VILATTI/petgram-api) running on `http://127.0.0.1:3000`
